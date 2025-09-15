@@ -1,7 +1,7 @@
 [versions]
 
 commons-imaging = "1.0.0-alpha6"
-kotlin = "2.2.10"
+kotlin = "2.2.20"
 kotlinx-coroutines = "1.10.2"
 kotlinx-datetime = "0.7.1-0.6.x-compat"
 kotlinx-serialization = "1.9.0"
