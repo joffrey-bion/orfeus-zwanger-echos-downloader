@@ -2,7 +2,7 @@
 
 commons-imaging = "1.0.0-alpha6"
 kotlin = "2.3.21"
-kotlinx-coroutines = "1.10.2"
+kotlinx-coroutines = "1.11.0"
 kotlinx-datetime = "0.8.0-0.6.x-compat"
 kotlinx-serialization = "1.11.0"
 ktor = "3.4.3"
