@@ -5,9 +5,14 @@ updates:
     directory: "/"
     schedule:
       interval: "weekly"
+    labels:
+      - internal
+      - dependencies
 
   # For Gradle dependencies
   - package-ecosystem: "gradle"
     directory: "/"
     schedule:
       interval: "weekly"
+    labels:
+      - dependencies
